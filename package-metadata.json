@@ -1,0 +1,9 @@
+{
+  "description": "Automatically formato .go source files with gofmt, plugin for Sublime Text 3",
+  "version": "1.0.0",
+  "sublime_text": "3",
+  "platforms": [
+    "linux"
+  ],
+  "url": "https://github.com/salvatorecatroppa/gofmt-onsave"
+}
